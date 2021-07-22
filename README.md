@@ -5,3 +5,4 @@
     <p>2. See the below image you'll get the idea !</p>
     <img src="./Dots_boxes.png" alt="" width="300" height="300">
     <p>3. The player who completes the first maximum box will be the <span>WINNER</span> !🏆</p>
+ <a href="https://sumitvajarinkar.github.io/dotAndBoxes_Game/" class="d"><b>Lets play !<b/></a>
